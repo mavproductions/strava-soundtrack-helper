@@ -1,4 +1,4 @@
-## strava-soundtrack-helper
+# strava-soundtrack-helper
 With the use of Strava GPX and Last.FM scrobble history, you can make your own music map and share your music listening history from your workout!
 
 Inside the app will give you tips with the manual work required inside Adobe Photoshop or GIMP to make your own privacy zones of your music map.
